@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                  = "dp_exec_block_on_main_thread"
-  s.version               = "1.0"
+  s.version               = "1.0.1"
   s.summary               = "よく書くやつなので…"
   s.author                = { "Yusuke SUGAMIYA" => "yusuke.dnpp@gmail.com" }
   s.homepage              = "https://github.com/dnpp73/dp_exec_block_on_main_thread"
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.ios.source_files      = 'dp_exec_block_on_main_thread/**/*.{h,m}'
   s.osx.source_files      = 'dp_exec_block_on_main_thread/**/*.{h,m}'
   s.ios.deployment_target = '6.0'
-  s.osx.deployment_target = '10.9'
+  s.osx.deployment_target = '10.7'
   s.requires_arc          = true
   
   s.license               = {
