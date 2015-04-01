@@ -2,7 +2,7 @@ dp_exec_block_on_main_thread
 =================
   
 ### Dependency  
-無し  
+None  
   
 ### Require Framework  
-無し  
+None  
