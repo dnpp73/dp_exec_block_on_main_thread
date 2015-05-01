@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name                  = "dp_exec_block_on_main_thread"
   s.version               = "1.0.1"
-  s.summary               = "よく書くやつなので…"
+  s.summary               = "snippet that exec block on main thread"
   s.author                = { "Yusuke SUGAMIYA" => "yusuke.dnpp@gmail.com" }
   s.homepage              = "https://github.com/dnpp73/dp_exec_block_on_main_thread"
   s.source                = { :git => "https://github.com/dnpp73/dp_exec_block_on_main_thread.git", :tag => "#{s.version}" }
