@@ -5,6 +5,7 @@ dp_exec_block_on_main_thread
 [![Pod Version](http://img.shields.io/cocoapods/v/dp_exec_block_on_main_thread.svg?style=flat-square)](http://cocoadocs.org/docsets/dp_exec_block_on_main_thread/)
 [![Pod Platform](http://img.shields.io/cocoapods/p/dp_exec_block_on_main_thread.svg?style=flat-square)](http://cocoadocs.org/docsets/dp_exec_block_on_main_thread/)
 [![Pod License](http://img.shields.io/cocoapods/l/dp_exec_block_on_main_thread.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat-square)](https://github.com/Carthage/Carthage)
 
 ### Dependency
 * None

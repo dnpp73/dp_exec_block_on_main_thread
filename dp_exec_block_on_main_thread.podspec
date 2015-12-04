@@ -1,13 +1,14 @@
 Pod::Spec.new do |s|
   s.name                  = "dp_exec_block_on_main_thread"
-  s.version               = "1.0.1"
+  s.version               = "1.0.2"
   s.summary               = "snippet that exec block on main thread"
   s.author                = { "Yusuke SUGAMIYA" => "yusuke.dnpp@gmail.com" }
   s.homepage              = "https://github.com/dnpp73/dp_exec_block_on_main_thread"
   s.source                = { :git => "https://github.com/dnpp73/dp_exec_block_on_main_thread.git", :tag => "#{s.version}" }
-  s.source_files          = 'dp_exec_block_on_main_thread/**/*.{h,m}'
-  s.ios.source_files      = 'dp_exec_block_on_main_thread/**/*.{h,m}'
-  s.osx.source_files      = 'dp_exec_block_on_main_thread/**/*.{h,m}'
+  source_files            = 'dp_exec_block_on_main_thread/**/*.{h,m}'
+  s.source_files          = source_files
+  s.ios.source_files      = source_files
+  s.osx.source_files      = source_files
   s.ios.deployment_target = '6.0'
   s.osx.deployment_target = '10.7'
   s.requires_arc          = true
