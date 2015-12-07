@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EA5C31E91C119708006C1EFD"
-               BuildableName = "dp_exec_block_on_main_thread_OSX.framework"
+               BuildableName = "dp_exec_block_on_main_thread.framework"
                BlueprintName = "dp_exec_block_on_main_thread-OSX"
                ReferencedContainer = "container:dp_exec_block_on_main_thread.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA5C31E91C119708006C1EFD"
-            BuildableName = "dp_exec_block_on_main_thread_OSX.framework"
+            BuildableName = "dp_exec_block_on_main_thread.framework"
             BlueprintName = "dp_exec_block_on_main_thread-OSX"
             ReferencedContainer = "container:dp_exec_block_on_main_thread.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EA5C31E91C119708006C1EFD"
-            BuildableName = "dp_exec_block_on_main_thread_OSX.framework"
+            BuildableName = "dp_exec_block_on_main_thread.framework"
             BlueprintName = "dp_exec_block_on_main_thread-OSX"
             ReferencedContainer = "container:dp_exec_block_on_main_thread.xcodeproj">
          </BuildableReference>
